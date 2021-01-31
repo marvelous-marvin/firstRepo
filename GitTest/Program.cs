@@ -22,7 +22,7 @@ namespace GitTest
 
             while (x > 0)
             {
-                Console.WriteLine("Marvin loves console apps!");
+                Console.WriteLine("People love/hate console apps!");
                 x--;
                
             }
