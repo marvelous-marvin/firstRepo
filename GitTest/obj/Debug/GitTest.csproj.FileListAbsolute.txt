@@ -1,0 +1,6 @@
+c:\users\marvi\onedrive\documents\visual studio 2015\Projects\GitTest\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\marvi\OneDrive\documents\visual studio 2015\Projects\GitTest\GitTest\bin\Debug\GitTest.exe
+C:\Users\marvi\OneDrive\documents\visual studio 2015\Projects\GitTest\GitTest\bin\Debug\GitTest.pdb
+C:\Users\marvi\OneDrive\documents\visual studio 2015\Projects\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+C:\Users\marvi\OneDrive\documents\visual studio 2015\Projects\GitTest\GitTest\obj\Debug\GitTest.exe
+C:\Users\marvi\OneDrive\documents\visual studio 2015\Projects\GitTest\GitTest\obj\Debug\GitTest.pdb
