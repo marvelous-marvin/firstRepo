@@ -10,6 +10,33 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             int x;
 
             Console.WriteLine("please enter number:");
