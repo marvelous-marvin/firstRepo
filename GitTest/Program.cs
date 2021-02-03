@@ -12,6 +12,8 @@ namespace GitTest
         {
             int x;
 
+            //I might add a variable
+
             Console.WriteLine("please enter number:");
             while (!int.TryParse(Console.ReadLine(), out x)) {
                 Console.WriteLine("please enter a number:");
